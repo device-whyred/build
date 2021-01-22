@@ -6,7 +6,7 @@
   
 	<!--// Device tree //-->
 		<!-- whyred -->
-		<project name="device_xiaomi_whyred" path="device/xiaomi/whyred" remote="sdm660" revision="nad" />
+		<project name="device_xiaomi_whyred" path="device/xiaomi/whyred" remote="sdm660" revision="corpos" />
 		<!-- Common-->
 		<project name="android_device_xiaomi_sdm660-common-whyred" path="device/xiaomi/sdm660-common" remote="sdm660" revision="Nad"/>
   
