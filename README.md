@@ -3,7 +3,7 @@
 ```bash
 repo init -u https://github.com/device-whyred/build -b corvus-build
 ```
-# sycc Repository #
+# sync Repository #
 ```bash
 repo sync -j$(nproc --all)
 '''
